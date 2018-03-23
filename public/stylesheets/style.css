@@ -1,0 +1,23 @@
+.input label {
+  display: block;
+  font-weight: bold;
+  padding: 2px 0;
+}
+
+button {
+  margin-top: 10px;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+}
+p{
+  text-align: center;
+  font-size:40px;
+}
+.block{
+  display: flex;
+  justify-content: center;
+}
+a{
+  font-size:40px;
+}
